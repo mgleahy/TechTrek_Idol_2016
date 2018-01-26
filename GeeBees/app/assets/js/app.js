@@ -27,11 +27,11 @@ var gbHeat = L.heatLayer([],{
 var gbShowPredicted = true;
 var gbPanning = false;
 var gbPanEnd = Date.now();
-var gbAnimationTime = 2;
+var gbAnimationTime = 1;
 var gbCenter = false;
 var gbCenterResolution = false;
 var gbFrameRate = 20;
-var gbOozeMode = 'none';
+var gbOozeMode = 'radial';
 
 var gbCityTopTenCats = [];
 var gbCityTopTenChartData = {labels:[],datasets:[{data:[],backgroundColor:[
