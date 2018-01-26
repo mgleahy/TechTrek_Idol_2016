@@ -74,7 +74,7 @@ var srcIcon = L.icon({
 var gbAud = document.getElementById("dsotc_trailer_audio");
 var gbVid = document.getElementById("dsotc_trailer");
 
-gbHeat.basemapDrawMethod = 'copy';
+gbHeat.basemapDrawMethod = 'explode-during';
 
 gbHeat.on('animation-start',function(){
     map.dragging.disable();
