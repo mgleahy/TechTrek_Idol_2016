@@ -1,3 +1,7 @@
+# App demos:
+
+GeeBees: [https://mgleahy.github.io/TechTrek_Idol_2016/GeeBees/app/](https://mgleahy.github.io/TechTrek_Idol_2016/GeeBees/app/)
+
 # TechTrek Idol 2016 Appathon
 
 Watch this:
